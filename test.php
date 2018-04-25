@@ -1,4 +1,4 @@
 <?php
-mail('elixander.chamoun@alingsas.se','Test mail','The mail function is working!');
+mail('elixander.chamoun@icloud.com','Test mail','The mail function is working!');
 echo 'Mail sent!';
 ?>
